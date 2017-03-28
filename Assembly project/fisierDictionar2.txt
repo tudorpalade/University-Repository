@@ -1,0 +1,106 @@
+Cerinte aa 
+: ab 
+Sa ac 
+se ad 
+realizeze ae 
+functii af 
+pentru ag 
+comprimarea ah 
+si ai 
+decomprimarea aj 
+fisierelor ak 
+text al 
+. am 
+implementeze an 
+aceste ao 
+1 ap 
+algoritm aq 
+de ar 
+comprimare as 
+Algoritmul at 
+trebuie au 
+sa av 
+functioneze aw 
+mai ax 
+mult ay 
+20 az 
+cuvinte ba 
+scrie bb 
+un bc 
+program bd 
+demonstrativ be 
+care bf 
+realizeaza bg 
+/ bh 
+unui bi 
+fisier bj 
+Utilizatorului bk 
+i bl 
+va bm 
+cere bn 
+furnizeze bo 
+la bp 
+tastatura bq 
+calea br 
+absoluta bs 
+catre bt 
+Algoritm bu 
+bazat bv 
+pe bw 
+dictionar: bx 
+Se by 
+analizeaza bz 
+fisierul ca 
+face cb 
+o cc 
+lista cd 
+cu ce 
+toate cf 
+cuvintele cg 
+din ch 
+fara ci 
+a cj 
+tine ck 
+cont cl 
+literele cm 
+mari cn 
+aparitii co 
+multiple cp 
+(se cq 
+contruieste cr 
+multimea cs 
+cuvintelor ct 
+alcatuiesc cu 
+textul). cv 
+atribuie cw 
+fiecarui cx 
+cuvant cy 
+caracter cz 
+ASCII da 
+( db 
+cifra, dc 
+litera dd 
+mare de 
+mica df 
+) dg 
+sau dh 
+combinatie di 
+2 dj 
+caractere dk 
+, dl 
+astfel dm 
+construindu-se dn 
+dictionar do 
+In dp 
+vor dq 
+inlocui dr 
+corespondentul ds 
+lor dt 
+caracterul du 
+salva dv 
+disc dw 
+noul dx 
+alt dy 
+contine dz 
+dictionarul ea 
+

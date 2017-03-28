@@ -1,0 +1,13 @@
+Cerinte : 
+Sa se realizeze functii pentru comprimarea si decomprimarea fisierelor text . Sa se implementeze aceste
+functii pentru 1 algoritm de comprimare . Algoritmul de comprimare trebuie sa functioneze pentru mai
+mult de 20 de cuvinte .
+Sa se scrie un program demonstrativ care realizeaza comprimarea / decomprimarea unui fisier text .
+Utilizatorului i se va cere sa furnizeze de la tastatura calea absoluta catre fisier .
+Algoritm de comprimare bazat pe dictionar:
+1 . Se analizeaza fisierul si se face o lista cu toate cuvintele din text fara a se tine cont de literele mari
+si de aparitii multiple (se contruieste multimea cuvintelor care alcatuiesc textul). Se atribuie
+fiecarui cuvant un caracter ASCII ( cifra, litera mare / mica ) sau o combinatie de 2 caractere ASCII ,
+astfel construindu-se un dictionar .
+2 . In fisierul text se vor inlocui cuvintele cu corespondentul lor ( caracterul ASCII ) din dictionar . Se
+va salva pe disc noul fisier si un alt fisier care contine dictionarul . 
